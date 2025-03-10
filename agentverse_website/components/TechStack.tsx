@@ -139,7 +139,7 @@ export default function TechStack() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <div className="flex justify-center items-center mb-6">
-            <img src="/spacetime2.svg" alt="SpaceTime DB Logo" className="h-50" />
+            <img src="/spacetime3.svg" alt="SpaceTime DB Logo" className="h-50" />
           </div>
           <h2 className="text-gradient mb-4">Powered by SpaceTime DB</h2>
           <p className="max-w-2xl mx-auto text-lg text-stone-700">

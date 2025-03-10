@@ -11,7 +11,7 @@ export default function Footer() {
             <Link href="/" className="text-2xl font-bold text-white">
               AgentVerse
             </Link>
-            <p className="mt-4 text-sm">
+            <p className="mt-4 text-sm text-stone-400">
               The first AI-driven MMO gaming experience where players deploy custom AI agents in a persistent, competitive virtual environment.
             </p>
           </div>
